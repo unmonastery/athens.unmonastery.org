@@ -1,16 +1,3 @@
-unmonastery.eu
-==============
+## athens.unmonastery.org ##
 
-website of unMonastery
-
-# dev setup
-
-```shell
-$ bower install
-$ npm install
-$ cp config/daemon.example.js config/daemon.js
-$ grunt import
-
-$ grunt
-```
-open http://localhost:8080 in your browser
+Wordpress theme based on Zerif, for the archival athens.unmonastery.org site.
